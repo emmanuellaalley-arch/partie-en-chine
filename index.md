@@ -1,7 +1,7 @@
-# HOME
+# Bienvenue à vous 
 
-## [Who are we](https://emmanuellaalley-arch.github.io/nouveausitewow/second_page)
+## [Ma vie à l'université](https://emmanuellaalley-arch.github.io/partie-en-chine/second_page)
 
-## [What are we doing](https://emmanuellaalley-arch.github.io/nouveausitewow/third_page)
+## [Mes cours](https://emmanuellaalley-arch.github.io/partie-en-chine/third_page)
 
-## [How can you help us](https://emmanuellaalley-arch.github.io/nouveausitewow/fourth_page) 
+## [Mes voyages](https://emmanuellaalley-arch.github.io/partie-en-chine/fouth_page) 
