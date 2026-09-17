@@ -1,7 +1,7 @@
 # 欢饮 !!
 
 
-![img](./img1)
+![img](images bfsu)
 
 <p> 你们好 ! Je m'appelle Ami et je vous souhaite la bienvenue sur mon blog sur mon voyage en Chine ! J'y décrirais mes impressions, mes expériences et tout ce que j'ai pu apprendre en 6 mois de vie à la chinoise ! Prêt à (re)partir à l'aventure avec moi ? C'est parti !<p>
 
