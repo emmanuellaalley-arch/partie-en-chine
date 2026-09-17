@@ -30,6 +30,6 @@
 
 ### En savoir plus sur moi 
 
-* Insta
+* Insta ![img](img/imagesinsta.jpg)<img src="image.png" width="200" height="100">
 * LinkedIn
 * Email
