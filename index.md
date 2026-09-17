@@ -32,4 +32,4 @@
 
 <a href="https://www.instagram.com/amialley17/"><img src="img/imagesinstanoir.jpg" height="70"></a>
 * LinkedIn <a href="https://www.instagram.com/amialley17/"><img src="img/imageslinkedin.png" height="70"></a>
-* Email <a href="https://www.instagram.com/amialley17/"><img src="img/imagesinstanoir.jpg" height="70"></a>
+* Email <a href="https://www.instagram.com/amialley17/"><img src="img/imagesmail.jpg" height="70"></a>
