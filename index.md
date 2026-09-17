@@ -17,7 +17,7 @@
 # Mon départ... et mon arrivée
 
 
-## [Ma vie à l'université](second_page)
+## [Ma vie à l'université](https://emmanuellaalley-arch.github.io/partie-en-chine/second_page)
 
 ## [Mes cours](https://emmanuellaalley-arch.github.io/partie-en-chine/third_page)
 
