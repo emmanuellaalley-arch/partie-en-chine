@@ -30,6 +30,6 @@
 
 ### En savoir plus sur moi 
 
-* Insta ![img](img/imagesinsta.jpg) <a href="https://www.instagram.com/amialley17/"><img src="img/imagesinsta.jpg" height="120"></a>
+* <a href="https://www.instagram.com/amialley17/"><img src="img/imagesinsta.jpg" height="120"></a>
 * LinkedIn
 * Email
