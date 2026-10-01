@@ -1,9 +1,12 @@
 # Ma vie à l'université 
 
-<p> J'ai eu la chance d'étudier à l'Université des Langues Étrangères de Pékin, très réputée pour ses cours de langues. Ma fac ayant un partenariat d'échange avec cette université, j'ai eu un peu moins de mal à me renseigner sur les modalités de cours qui m'attendaient.<p> 
+<p> J'ai eu la chance d'étudier à l'Université des Langues Étrangères de Pékin, très réputée pour ses cours de langues. Ma fac ayant un partenariat d'échange avec cette université, j'ai eu un peu moins de mal à me renseigner sur les modalités de cours qui m'attendaient.Les cours étaient tous dispensés en chinois, ce qui m'a forcé à m'immerger dans l'environnement chinois. Le semestre que j'ai passé dans cette université a été ponctuée de nombreux événements en tout genre : musique, sport, culture, comme par exemple la journée du sport, ou différents événements célébrant différents artistes.<p> 
   
 ## Le campus
 
+<p> C'était la première fois que j'étudiais dans une université chinoise et donc je ne m'attendais pas à ce que le campus soit aussi grand. L'université se repartit en deux parties : le campus est et le campus ouest. Il y avait des cantines et des dortoirs des deux cotes, mais ayant cours dans le campus ouest, j'y passais bien plus de temps. Problème : j'habitais sur le campus est. Je devais donc traverser tout le campus est et le campus ouest, car le département d'études chinoises se situait au bout du campus ouest. Bonjour le(s) retard(s)...<p>
+<p>Le campus ouest comportait un grand terrain de football avec deux terrains de baskets et une piste d'athlétisme, et j'y ai passé beaucoup de temps à regarder les autres faire du sport.<p>
+  
 ## Mes rencontres 
 
 
