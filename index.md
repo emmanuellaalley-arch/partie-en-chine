@@ -3,8 +3,7 @@
 ![img](img/imagesbfsu.jpg)
 
 
-<p>你们好 ! Je m'appelle Ami et je vous souhaite la bienvenue sur mon blog sur mon voyage en Chine ! J'y décrirais mes impressions, mes expériences et tout ce que j'ai pu apprendre en 6 mois de vie à la chinoise ! Prêt à (re)partir à l'aventure avec moi ? C'est parti !<p>
-
+<p>你们好 ! Je m'appelle Ami et je vous souhaite la bienvenue sur mon blog sur mon voyage en Chine ! J'y décrirais mes impressions, mes expériences et tout ce que j'ai pu apprendre en 6 mois de vie en Chine ! Prêt à (re)partir à l'aventure avec moi ? C'est parti !<p>
 
 # Un peu de contexte 
 
@@ -13,14 +12,19 @@
 
 ## [Ma vie à l'université](https://emmanuellaalley-arch.github.io/partie-en-chine/second_page)
 
+
 ## [Mes cours](https://emmanuellaalley-arch.github.io/partie-en-chine/third_page)
+
+
 
 ## [Mes voyages](https://emmanuellaalley-arch.github.io/partie-en-chine/fouth_page) 
 
 
 
 
+
 ### En savoir plus sur moi 
+
 <a href="https://www.instagram.com/amialley17/"><img src="img/imagesinstanoir.jpg" height="30"></a>
 <a href="https://www.linkedin.com/in/ami-alley-96105b385/?isSelfProfile=true"><img src="img/imageslinkedin.png" height="30"></a>
 
