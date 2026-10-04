@@ -21,6 +21,6 @@
 
 
 ### En savoir plus sur moi 
-<a href="https://www.instagram.com/amialley17/"><img src="img/imagesinstanoir.jpg" height="70"></a>
-<a href="https://www.linkedin.com/in/ami-alley-96105b385/?isSelfProfile=true"><img src="img/imageslinkedin.png" height="70"></a>
+<a href="https://www.instagram.com/amialley17/"><img src="img/imagesinstanoir.jpg" height="30"></a>
+<a href="https://www.linkedin.com/in/ami-alley-96105b385/?isSelfProfile=true"><img src="img/imageslinkedin.png" height="30"></a>
 
