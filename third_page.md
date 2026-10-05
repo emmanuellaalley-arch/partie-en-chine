@@ -3,7 +3,7 @@
 <p>Pour conclure, voici un petit florilège de photos que j'ai prises au cours de mes voyages dans différentes villes en Chine.<p>
   <p>好不好看?<p> 
   
-## Shanghai
+ ## Shanghai
 
 ![img](img/20250223_173522.jpg)<img src="img/imagesinstanoir.jpg" height="350"></a>
 ![img](img/20250223_173522.jpg)<img src="img/imagesinstanoir.jpg" height="350"></a>
@@ -11,7 +11,7 @@
 ![img](img/20250223_173522.jpg)<img src="img/imagesinstanoir.jpg" height="350"></a>
 ![img](img/20250223_173522.jpg)<img src="img/imagesinstanoir.jpg" height="350"></a>
 
-## Suzhou
+ ## Suzhou
 
 ![img](img/20250223_173522.jpg)
  <img src="img/imagesinstanoir.jpg" height="350"></a>
@@ -22,7 +22,7 @@
 ![img](img/20250223_173522.jpg) 
  <img src="img/imagesinstanoir.jpg" height="350"></a>
  
-## Hangzhou
+ ## Hangzhou
 
 ![img](img/20250223_173522.jpg)
  <img src="img/imagesinstanoir.jpg" height="350"></a>
@@ -31,7 +31,7 @@
 ![img](img/20250223_173522.jpg)
   <img src="img/imagesinstanoir.jpg" height="350"></a>
   
-## Chengdu
+ ## Chengdu
 
 ![img](img/20250223_173522.jpg)
  <img src="img/imagesinstanoir.jpg" height="350"></a>
@@ -40,7 +40,7 @@
 ![img](img/20250223_173522.jpg)
  <img src="img/imagesinstanoir.jpg" height="350"></a>
  
-## Tianjin
+ ## Tianjin
 
 ![img](img/20250223_173522.jpg)
  <img src="img/imagesinstanoir.jpg" height="350"></a>
@@ -49,7 +49,8 @@
 [img](img/20250223_173522.jpg)
 <img src="img/imagesinstanoir.jpg" height="350"></a>
 
-## Chongqing
+ ## Chongqing
+ 
 ![img](img/20250223_173522.jpg)
  <img src="img/imagesinstanoir.jpg" height="350"></a>
 ![img](img/20250223_173522.jpg)
@@ -63,7 +64,7 @@
 ![img](img/20250223_173522.jpg)
  <img src="img/imagesinstanoir.jpg" height="350"></a>
  
-## Taiyuan
+ ## Taiyuan
 
 ![img](img/20250223_173522.jpg)
  <img src="img/imagesinstanoir.jpg" height="350"></a>
