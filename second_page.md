@@ -4,6 +4,7 @@
 
 <img src="img/imagesbfsulogo.jpg" height="350"></a>
   [<img src="img/imagesbfsu.jpg" height="350"></a>](https://en.bfsu.edu.cn/)
+  <img src="img/20250709_215537.jpg" height="350"></a>
   
 # Le campus
 
