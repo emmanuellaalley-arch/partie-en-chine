@@ -3,7 +3,7 @@
 <p> J'ai eu la chance d'étudier à l'Université des Langues Étrangères de Pékin, très réputée pour ses cours de langues. Ma fac ayant un partenariat d'échange avec cette université, j'ai eu un peu moins de mal à me renseigner sur les modalités de cours qui m'attendaient.Les cours étaient tous dispensés en chinois, ce qui m'a forcé à m'immerger dans l'environnement chinois. Le semestre que j'ai passé dans cette université a été ponctuée de nombreux événements en tout genre : musique, sport, culture, comme par exemple la journée du sport, ou différents événements célébrant différents artistes.<p> 
 
 <img src="img/imagesbfsulogo.jpg" height="350"></a>
-[<img src="img/imagesbfsu.jpg" height="350"></a>](https://en.bfsu.edu.cn/)
+  [<img src="img/imagesbfsu.jpg" height="350"></a>](https://en.bfsu.edu.cn/)
   
 # Le campus
 
@@ -17,8 +17,8 @@
 <p>J'ai eu la chance de tomber sur une colocataire francophone. Elle venait de Belgique et je n'ai jamais été aussi heureuse d'entendre un "bonjour" de tout ma vie. J'habitais donc en colocation dans un tout petit dortoir avec trois lits. On avait aussi un 3ème colocataire, mais elle a du partir en cours de semestre pour une urgence personnelle. J'ai dû donc apprendre à cohabiter avec une inconnue. J'ai aussi eu la chance de rencontrer un groupe de Français sur le campus et d'avoir sympathisé avec mes camarades de classe. Sans oublier mes amies que je connaissais de ma licence et sans qui ce voyage aurait été nettement plus difficile à gérer. Grâce à toutes ces personnes, j'ai passé un semestre remplis de souvenirs inoubliables et j'ai très hâte de pouvoir retourner en Chine un jour.<p>
 
 <img src="img/img/20250327_102744.jpg" height="350"></a>
-![img](img/20250223_173522.jpg)<img src="img/imagesinstanoir.jpg" height="350"></a>
-![img](img/20250223_173522.jpg)<img src="img/imagesinstanoir.jpg" height="350"></a>
+ <img src="img/imagesinstanoir.jpg" height="350"></a>
+  <img src="img/imagesinstanoir.jpg" height="350"></a>
 
 
 
