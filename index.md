@@ -1,6 +1,6 @@
 # 欢饮 !!
 
-![img](img/20250223_173522.jpg)
+![img](img/20250223_173522.jpg)<img src="img/20250223_173522.jpg" height="350"></a>
 
 <p>你们好 ! Je m'appelle Ami et je vous souhaite la bienvenue sur mon blog sur mon voyage en Chine ! J'y décrirais mes impressions, mes expériences et tout ce que j'ai pu apprendre en 6 mois de vie en Chine ! Prêt à (re)partir à l'aventure avec moi ? C'est parti !<p>
   
