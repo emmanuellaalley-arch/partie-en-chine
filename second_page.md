@@ -10,7 +10,7 @@
 <p>C'était la première fois que j'étudiais dans une université chinoise et donc je ne m'attendais pas à ce que le campus soit aussi grand. L'université se repartit en deux parties : le campus est et le campus ouest. Il y avait des cantines et des dortoirs des deux côtés, mais ayant cours dans le campus ouest, j'y passais bien plus de temps. Problème : j'habitais sur le campus est. Je devais donc traverser tout le campus est et le campus ouest, car le département d'études chinoises se situait au bout du campus ouest. Bonjour le(s) retard(s)...<p>
 <p>Le campus ouest comportait un grand terrain de football avec deux terrains de baskets et une piste d'athlétisme, et j'y ai passé beaucoup de temps à regarder les autres faire du sport. C'était souvent là que s'organisaient les évènements qui rythmaient la vie étudiante.<p>
   
-![img](img/20250223_173522.jpg)<img src="img/imagesinstanoir.jpg" height="350"></a>
+ <img src="img/20250425_092429.jpg" height="350"></a> 
   
 # Mes rencontres 
 
