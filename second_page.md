@@ -11,6 +11,7 @@
 <p>Le campus ouest comportait un grand terrain de football avec deux terrains de baskets et une piste d'athlétisme, et j'y ai passé beaucoup de temps à regarder les autres faire du sport. C'était souvent là que s'organisaient les évènements qui rythmaient la vie étudiante.<p>
   
  <img src="img/20250425_092429.jpg" height="350"></a> 
+  <img src="20250425_092429.jpg" height="350"></a> 
   
 # Mes rencontres 
 
