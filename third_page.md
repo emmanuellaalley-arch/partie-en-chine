@@ -47,11 +47,13 @@
 
  ## Chongqing
  
-   <img src="img/imagesinstanoir.jpg" height="350">
-  <img src="img/imagesinstanoir.jpg" height="350">
-   <img src="img/imagesinstanoir.jpg" height="350">
-    <img src="img/imagesinstanoir.jpg" height="350">
- 
+   <img src="20250704_155314.jpg" height="350">
+  <img src="20250704_162016.jpg" height="350">
+   <img src="20250704_162618.jpg" height="350">
+    <img src="20250704_165046.jpg" height="350">
+   <img src="20250704_203855.jpg" height="350">
+  <img src="20250704_224420.jpg" height="350">
+  
  ## Taiyuan
  
  <img src="20250512_135829.jpg" height="350">
@@ -68,4 +70,4 @@
 <img src="20250525_115851.jpg" height="350">
  <img src="20250525_104820.jpg" height="350">
  
-## [Home](https://emmanuellaalley-arch.github.io/partie-en-chine/)
+ ## [Home](https://emmanuellaalley-arch.github.io/partie-en-chine/)
