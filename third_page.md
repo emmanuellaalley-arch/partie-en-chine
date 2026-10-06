@@ -53,9 +53,10 @@
  
  ## Taiyuan
  
- <img src="img/imagesinstanoir.jpg" height="350">
- <img src="img/imagesinstanoir.jpg" height="350">
- <img src="img/imagesinstanoir.jpg" height="350">
+ <img src="20250512_135829.jpg" height="350">
+ <img src="20250512_135900.jpg" height="350">
+ <img src="20250512_140842.jpg" height="350">
+  <img src="20250513_103038.jpg" height="350">
 
 
 [Home](https://emmanuellaalley-arch.github.io/partie-en-chine/)
