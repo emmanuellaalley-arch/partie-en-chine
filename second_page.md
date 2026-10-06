@@ -12,19 +12,19 @@
 <p>Le campus ouest comportait un grand terrain de football avec deux terrains de baskets et une piste d'athlétisme, et j'y ai passé beaucoup de temps à regarder les autres faire du sport. C'était souvent là que s'organisaient les évènements qui rythmaient la vie étudiante.</p>
   
  <img src="20250416_135718.jpg" height="350">
- <img src="20250425_092429.jpg" height="350">
- <img src="20250627_152332.jpg" height="350">
- <img src="20250313_173503.jpg" height="350">
+  <img src="20250425_092429.jpg" height="350">
+   <img src="20250627_152332.jpg" height="350">
+    <img src="20250313_173503.jpg" height="350">
      
  # Mes rencontres 
 
 <p>J'ai eu la chance de tomber sur une colocataire francophone. Elle venait de Belgique et je n'ai jamais été aussi heureuse d'entendre un "bonjour" de tout ma vie. J'habitais donc en colocation dans un tout petit dortoir avec trois lits. On avait aussi un 3ème colocataire, mais elle a du partir en cours de semestre pour une urgence personnelle. J'ai dû donc apprendre à cohabiter avec une inconnue. J'ai aussi eu la chance de rencontrer un groupe de Français sur le campus et d'avoir sympathisé avec mes camarades de classe. Sans oublier mes amies que je connaissais de ma licence et sans qui ce voyage aurait été nettement plus difficile à gérer. Grâce à toutes ces personnes, j'ai passé un semestre remplis de souvenirs inoubliables et j'ai très hâte de pouvoir retourner en Chine un jour.</p>
 
 <img src="20250327_102744.jpg" height="350">
-<img src="20250603_115415.jpg" height="350">
-<img src="20250530_144231.jpg" height="350">
-<img src="20250524_125559.jpg" height="350">
-<img src="20250627_151250.jpg" height="350">
+ <img src="20250603_115415.jpg" height="350">
+  <img src="20250530_144231.jpg" height="350">
+   <img src="20250524_125559.jpg" height="350">
+    <img src="20250627_151250.jpg" height="350">
 
 
 
