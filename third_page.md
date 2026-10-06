@@ -48,8 +48,6 @@
   <img src="img/imagesinstanoir.jpg" height="350">
    <img src="img/imagesinstanoir.jpg" height="350">
     <img src="img/imagesinstanoir.jpg" height="350">
-     <img src="img/imagesinstanoir.jpg" height="350">
-      <img src="img/imagesinstanoir.jpg" height="350">
  
  ## Taiyuan
  
