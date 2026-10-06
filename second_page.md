@@ -29,5 +29,6 @@
 <img src="20250530_144231.jpg" height="350">
 <img src="20250524_125559.jpg" height="350">
 <img src="20250627_151250.jpg" height="350">
+</p>
 
 ### [Home](https://emmanuellaalley-arch.github.io/partie-en-chine/)
