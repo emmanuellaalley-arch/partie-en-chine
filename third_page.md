@@ -61,8 +61,10 @@
    
 ## Qingdao
 
- <img src="20250512_135829.jpg" height="350">
- <img src="20250512_135900.jpg" height="350">
- <img src="20250512_140842.jpg" height="350">
-
-[Home](https://emmanuellaalley-arch.github.io/partie-en-chine/)
+ <img src="20250524_102714.jpg" height="350">
+ <img src="20250523_163420.jpg" height="350">
+ <img src="20250524_125559.jpg" height="350">
+<img src="20250525_115851.jpg" height="350">
+ <img src="20250525_104820.jpg" height="350">
+ 
+## [Home](https://emmanuellaalley-arch.github.io/partie-en-chine/)
