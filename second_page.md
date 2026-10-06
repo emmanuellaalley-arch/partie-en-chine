@@ -2,9 +2,9 @@
 
 <p> J'ai eu la chance d'étudier à l'Université des Langues Étrangères de Pékin, très réputée pour ses cours de langues. Ma fac ayant un partenariat d'échange avec cette université, j'ai eu un peu moins de mal à me renseigner sur les modalités de cours qui m'attendaient.Les cours étaient tous dispensés en chinois, ce qui m'a forcé à m'immerger dans l'environnement chinois. Le semestre que j'ai passé dans cette université a été ponctuée de nombreux événements en tout genre : musique, sport, culture, comme par exemple la journée du sport, ou différents événements célébrant différents artistes.</p> 
 
-<img src="img/imagesbfsulogo.jpg" height="350">
-  [<img src="img/imagesbfsu.jpg" height="350">](https://en.bfsu.edu.cn/)
-  <img src="20250709_215537.jpg" height="350">
+[<img src="img/imagesbfsulogo.jpg" height="350">](https://en.bfsu.edu.cn/)
+<img src="img/imagesbfsu.jpg" height="350">
+<img src="20250709_215537.jpg" height="350">
   
  # Le campus
 
