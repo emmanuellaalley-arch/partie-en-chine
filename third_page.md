@@ -14,8 +14,6 @@
 <img src="20250502_152912.jpg" height="350">
 <img src="20250502_193549.jpg" height="350">
 
-</p>
-
 ## Suzhou
  
  <div align="center">
@@ -25,17 +23,13 @@
  <img src="20250504_175006.jpg" height="350">
  <img src="20250504_175528(0).jpg" height="350">
  <img src="20250504_140608.jpg" height="350">
- 
- </p>
- 
+  
  ## Hangzhou
  
  <img src="20250503_112258.jpg" height="350">
   <img src="20250503_134555.jpg" height="350">
    <img src="20250503_144010.jpg" height="350">
-   
-  </p>
-  
+     
 ## Chengdu
 
  <img src="20250701_171017.jpg" height="350">
@@ -44,15 +38,13 @@
    <img src="20250702_193810.jpg" height="350">
      <img src="20250703_105618.jpg" height="350">
        <img src="20250703_125136(0).jpg" height="350">
-       </p>
+       
 ## Tianjin
 
  <img src="20250607_121030.jpg" height="350">
   <img src="20250607_143935.jpg" height="350">
    <img src="20250607_150658.jpg" height="350">
-   
-  </p>
-    
+      
 ## Chongqing
  
    <img src="20250704_155314.jpg" height="350">
@@ -62,8 +54,6 @@
    <img src="20250704_203855.jpg" height="350">
   <img src="20250704_224420.jpg" height="350">
   
-  </p>
-  
 ## Taiyuan
  
  <img src="20250512_135829.jpg" height="350">
@@ -71,8 +61,6 @@
  <img src="20250512_140842.jpg" height="350">
   <img src="20250513_103038.jpg" height="350">
    <img src="20250513_105949.jpg" height="350">
-   
-   </p>
    
 ## Qingdao
 
@@ -82,6 +70,5 @@
 <img src="20250525_115851.jpg" height="350">
  <img src="20250525_104820.jpg" height="350">
  
- </p>
  
 ## [Home](https://emmanuellaalley-arch.github.io/partie-en-chine/)
