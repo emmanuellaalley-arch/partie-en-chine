@@ -5,8 +5,7 @@
   
 ## Shanghai
  
-<div align="center">
-  
+<p align="center"> 
 <img src="20250502_111932.jpg" height="350">
 <img src="20250502_174355.jpg" height="350">
 <img src="20250501_201759.jpg" height="350">
@@ -16,8 +15,8 @@
 </p> 
 
 ## Suzhou
- 
- <div align="center">
+
+ <p align="center"> 
  <img src="20250504_100941.jpg" height="350">
  <img src="20250504_115342.jpg" height="350">
  <img src="20250504_175006.jpg" height="350">
@@ -27,6 +26,7 @@
    
  ## Hangzhou
  
+ <p align="center"> 
  <img src="20250503_112258.jpg" height="350">
  <img src="20250503_134555.jpg" height="350">
  <img src="20250503_144010.jpg" height="350">
@@ -34,6 +34,7 @@
  
 ## Chengdu
 
+ <p align="center"> 
  <img src="20250701_171017.jpg" height="350">
  <img src="20250701_174520.jpg" height="350">
  <img src="20250702_104731.jpg" height="350">
@@ -44,13 +45,15 @@
  
 ## Tianjin
 
+ <p align="center"> 
  <img src="20250607_121030.jpg" height="350">
  <img src="20250607_143935.jpg" height="350">
  <img src="20250607_150658.jpg" height="350">
  </p>
 
 ## Chongqing
- 
+
+ <p align="center"> 
  <img src="20250704_155314.jpg" height="350">
  <img src="20250704_162016.jpg" height="350">
  <img src="20250704_162618.jpg" height="350">
@@ -60,7 +63,8 @@
  </p>
  
 ## Taiyuan
- 
+
+ <p align="center"> 
  <img src="20250512_135829.jpg" height="350">
  <img src="20250512_135900.jpg" height="350">
  <img src="20250512_140842.jpg" height="350">
@@ -70,6 +74,7 @@
  
 ## Qingdao
 
+ <p align="center"> 
  <img src="20250524_102714.jpg" height="350">
  <img src="20250523_163420.jpg" height="350">
  <img src="20250524_125559.jpg" height="350">
