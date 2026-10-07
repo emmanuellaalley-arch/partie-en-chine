@@ -3,7 +3,7 @@
 <p>Pour conclure, voici un petit florilège de photos que j'ai prises au cours de mes voyages dans différentes villes en Chine.</p>
   <p>好不好看?</p> 
   
- ## Shanghai
+## Shanghai
  
 <div align="center">
   
@@ -14,7 +14,7 @@
 <img src="20250502_152912.jpg" height="350">
 <img src="20250502_193549.jpg" height="350">
 
- ## Suzhou
+## Suzhou
  
  <div align="center">
    
@@ -30,7 +30,7 @@
   <img src="20250503_134555.jpg" height="350">
    <img src="20250503_144010.jpg" height="350">
   
- ## Chengdu
+## Chengdu
 
  <img src="20250701_171017.jpg" height="350">
   <img src="20250701_174520.jpg" height="350">
@@ -39,13 +39,13 @@
      <img src="20250703_105618.jpg" height="350">
        <img src="20250703_125136(0).jpg" height="350">
        
- ## Tianjin
+## Tianjin
 
  <img src="20250607_121030.jpg" height="350">
   <img src="20250607_143935.jpg" height="350">
    <img src="20250607_150658.jpg" height="350">
 
- ## Chongqing
+## Chongqing
  
    <img src="20250704_155314.jpg" height="350">
   <img src="20250704_162016.jpg" height="350">
@@ -54,7 +54,7 @@
    <img src="20250704_203855.jpg" height="350">
   <img src="20250704_224420.jpg" height="350">
   
- ## Taiyuan
+## Taiyuan
  
  <img src="20250512_135829.jpg" height="350">
  <img src="20250512_135900.jpg" height="350">
@@ -70,4 +70,4 @@
 <img src="20250525_115851.jpg" height="350">
  <img src="20250525_104820.jpg" height="350">
  
- ## [Home](https://emmanuellaalley-arch.github.io/partie-en-chine/)
+## [Home](https://emmanuellaalley-arch.github.io/partie-en-chine/)
